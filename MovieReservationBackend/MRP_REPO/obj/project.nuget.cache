@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OBLutpBiP4k=",
+  "dgSpecHash": "ZZuAFHt/s7M=",
   "success": true,
-  "projectFilePath": "C:\\Users\\VivekSasiKumar\\source\\repos\\MainProject\\MovieReservationProject\\MRP_REPO\\MRP_REPO.csproj",
+  "projectFilePath": "C:\\Users\\VivekSasiKumar\\source\\repos\\MainProject\\MovieReservationBackend\\MRP_REPO\\MRP_REPO.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\VivekSasiKumar\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\VivekSasiKumar\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

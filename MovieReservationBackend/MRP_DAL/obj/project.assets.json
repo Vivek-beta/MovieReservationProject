@@ -4012,11 +4012,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\VivekSasiKumar\\source\\repos\\MainProject\\MovieReservationProject\\MRP_DAL\\MRP_DAL.csproj",
+      "projectUniqueName": "C:\\Users\\VivekSasiKumar\\source\\repos\\MainProject\\MovieReservationBackend\\MRP_DAL\\MRP_DAL.csproj",
       "projectName": "MRP_DAL",
-      "projectPath": "C:\\Users\\VivekSasiKumar\\source\\repos\\MainProject\\MovieReservationProject\\MRP_DAL\\MRP_DAL.csproj",
+      "projectPath": "C:\\Users\\VivekSasiKumar\\source\\repos\\MainProject\\MovieReservationBackend\\MRP_DAL\\MRP_DAL.csproj",
       "packagesPath": "C:\\Users\\VivekSasiKumar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\VivekSasiKumar\\source\\repos\\MainProject\\MovieReservationProject\\MRP_DAL\\obj\\",
+      "outputPath": "C:\\Users\\VivekSasiKumar\\source\\repos\\MainProject\\MovieReservationBackend\\MRP_DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MRP_API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15106b580db2f36558491a9f6312e3ef63c863b6")]
 [assembly: System.Reflection.AssemblyProductAttribute("MRP_API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MRP_API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
